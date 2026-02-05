@@ -1,0 +1,8 @@
+- investigation voor vinden van dingen 
+- Perception for zien van dingen.
+- Strength om dingen te verplaatsen
+- Charisma voor overtuigen 
+- Dexterity voor snelheid en bewegen
+- Intelligence voor feiten kennis 
+- Wisdom voor straat kennis
+- Constitution, endurance en survival 
